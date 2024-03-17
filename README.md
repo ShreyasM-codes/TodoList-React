@@ -15,6 +15,7 @@ This is a simple Todo List application built using React. It allows users to add
 - To add a new todo, type your todo in the input field and press Enter.
 - To remove a todo, click on the delete button next to the todo.
 - To mark a todo as completed, click on the todo item.
+- To run this project after downloading rename the folder to 'vite-project'.
 
 
 
